@@ -1,0 +1,13 @@
+@use 'variables' as v;
+
+.section {
+  padding: v.$section-spacing 0;
+}
+
+.site-header {
+  padding: 20px 0;
+}
+
+.site-footer {
+  padding: 40px 0;
+}

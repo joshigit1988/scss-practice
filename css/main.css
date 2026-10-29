@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #333333;
+  margin: 0;
+}
+
+.section {
+  padding: 60px 0;
+}
+
+.site-header {
+  padding: 20px 0;
+}
+
+.site-footer {
+  padding: 40px 0;
+}
+
+.button {
+  background: #0071b8;
+  color: #fff;
+  padding: 12px 24px;
+  border-radius: 6px;
+}
+.button:hover {
+  opacity: 0.85;
+}
+
+/*# sourceMappingURL=main.css.map */
